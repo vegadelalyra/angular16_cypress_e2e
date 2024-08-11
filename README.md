@@ -1,5 +1,8 @@
 # AngularCypress
 
+![imagen](https://github.com/user-attachments/assets/99551f01-73bc-4b17-9185-0be51ece4d16)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
 ## Development server
