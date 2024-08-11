@@ -2,6 +2,7 @@
 
 ![imagen](https://github.com/user-attachments/assets/99551f01-73bc-4b17-9185-0be51ece4d16)
 
+![imagen](https://github.com/user-attachments/assets/34584887-ad33-4fd9-92c0-6e265c470abe)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
